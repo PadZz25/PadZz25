@@ -34,8 +34,8 @@
 ### 📊 GitHub Analytics
 <div align="center">
   <a href="https://github.com/PadZz25">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PadZz25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PadZz25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PadZz25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PadZz25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" />
   </a>
 </div>
 
