@@ -8,7 +8,7 @@
 
 ---
 
-### About Me
+About Me
 <div align="center">
   <em>"Bridging the gap between low-level systems and high-level intelligence."</em>
 </div>
@@ -21,14 +21,14 @@
 
 ---
 
-###Tech Stack & Tools
+Tech Stack & Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,python,cpp,linux,mysql,git,github,vscode,html,css,js,mikrotik&perline=12" />
 </div>
 
 ---
 
-###GitHub Analytics
+GitHub Analytics
 <div align="center">
   <a href="https://github.com/PadZz25">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=PadZz25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" />
@@ -42,7 +42,7 @@
 
 ---
 
-### Connect with Me
+Connect with Me
 <div align="center">
   <a href="https://linkedin.com/in/fadly-zakariya" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
