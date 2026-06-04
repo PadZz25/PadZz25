@@ -10,28 +10,27 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 <div align="center">
   <em>"Bridging the gap between low-level systems and high-level intelligence."</em>
 </div>
 <br/>
 
-- 🎓 **Software Engineering Student** (Class of 2025).
-- 🔭 Working on **Mini OS Kernel** & **Machine Learning Research**.
-- 🌱 Deep diving into **C, Python, & System Architecture**.
-- 📡 **MTCNA Certified** Network Associate.
-- ⚡ Fun fact: I enjoy debugging memory leaks more than fixing CSS.
+- **Software Engineering Student** (Class of 2025).
+- Working on **Mini OS Kernel** & **Machine Learning Research**.
+- Deep diving into **C, Python, & System Architecture**.
+- **MTCNA Certified** Network Associate.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###Tech Stack & Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,python,cpp,linux,mysql,git,github,vscode,html,css,js,mikrotik&perline=12" />
 </div>
 
 ---
 
-### 📊 GitHub Analytics
+###GitHub Analytics
 <div align="center">
   <a href="https://github.com/PadZz25">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=PadZz25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" />
