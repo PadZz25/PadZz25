@@ -3,7 +3,6 @@
 
   <a href="https://github.com/PadZz25"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Informatics+Engineering+%40+Universitas+Negeri+Malang;MTCNA+Certified+Network+Engineer+%E2%80%A2+PT+Lintas+Data+Prima+Alum;Building+Laravel+Systems+%E2%80%A2+Exploring+C%2C+Python+%26+AI" alt="Typing SVG" /></a>
 
-  <br /><br />
 
   <a href="https://www.linkedin.com/in/fadly-zakariya/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white" alt="LinkedIn" /></a>
   <a href="mailto:fadlymuhammadfi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -17,45 +16,7 @@
 
 > *"Bridging low-level systems, reliable network infrastructure, and practical full-stack software."*
 
-I am an **Informatics Engineering** undergraduate at **Universitas Negeri Malang** (`2025 – Present`) with a strong technical foundation in **Computer & Network Engineering** (`SMKN 1 Kademangan`). My background combines hands-on enterprise networking (**MTCNA Certified**, former Network Engineer Intern at **PT Lintas Data Prima**), production-focused **Laravel** web applications for MSME digitalization, and continuous exploration in **C systems programming** and **Python / AI**.
-
-- 🎓 **Education:** Informatics Engineering — **Universitas Negeri Malang** *(2025 – Present)*
-- 🔭 **Current Focus:** Full-Stack Laravel Systems, **Mini OS Kernel** fundamentals (`C`) & **AI/ML** workflows (`Python`)
-- 🌐 **Networking Edge:** **MTCNA Certified** (`2409NA8250`) · Routing, VLAN, VPN & LAN/WAN Troubleshooting
-- 📜 **Intellectual Property:** Co-Inventor of Granted Indonesian Copyright **`EC002026059476`** *(2026)*
-- 📍 **Location:** Malang, East Java, Indonesia · *Open to Internships, Engineering Roles & Collaboration*
-
----
-
-### Featured Projects
-
-| Project | Stack | Overview & Impact |
-| :--- | :--- | :--- |
-| **[LARIS (`laris-app`)](https://github.com/PadZz25/laris-app)** | `Laravel 12` · `PHP 8.2` · `MySQL 8` · `Tailwind CSS` · `ApexCharts` · `DomPDF` | Web-based retail POS & inventory platform developed for **Toko Ina** (Blitar). Includes multi-payment POS (Cash, Transfer, *Kasbon* credit ledger), stock opname, supplier restock management, role-based access control, automated `mysqldump` backup, PDF/Excel reporting, and PHPUnit feature tests. |
-| **[Tokoku POS (`web-Point-of-Sale-mitra-Tokoku`)](https://github.com/PadZz25/web-Point-of-Sale-mitra-Tokoku)** | `Laravel 11` · `Filament 3.2` · `PHP 8.2` · `MySQL` | Integrated POS and administrative resource panel for MSME partner **Tokoku** (Malang), featuring automated stock movement logs (`RiwayatPergerakanStok`), customer & employee records, expense tracking, and receipt printing. Registered under Indonesian Copyright **`EC002026059476`**. |
-| **Systems & AI R&D** *(Private / Academic)* | `C` · `C++` · `Python` · `Linux` | Ongoing low-level systems work (**Mini OS Kernel** & system architecture) alongside **Python & AI** coursework and experimentation. |
-
----
-
-### Experience & Credentials
-
-#### Experience
-- **Network Engineer (Intern)** — **PT Lintas Data Prima**, Blitar *(Sep 2024 – Jan 2025)*
-  - Hands-on configuration, maintenance, and troubleshooting across **VPN, VLAN, LAN/WAN, WLAN, and Routing** infrastructure.
-- **Sales & Marketing Specialist (Intern)** — **PLN Icon Plus**, Malang *(Jul 2024 – Aug 2024)*
-  - Supported customer acquisition and technical-commercial communication for telecommunications and connectivity solutions.
-
-#### Certifications, Intellectual Property & Honors
-- 📜 **Granted Copyright (HKI `EC002026059476`, 2026)** — *Sistem Manajemen Database Terintegrasi untuk Tokoku sebagai Langkah Mendukung Digitalisasi UMKM di Malang* (Universitas Negeri Malang)
-- 🌐 **MikroTik Certified Network Associate (MTCNA)** — MikroTik (`2409NA8250`, valid Sep 2024 – Sep 2027)
-- ☁️ **App Building with AppSheet Skill Badge** — Google / Credly *(Jul 2026)* · *Python & AI Fundamentals (Dicoding Indonesia)*
-- 🥈 **Silver Award — PKM-GFT IDEAFEST 2025** *(Team Leader)* — Universitas Negeri Malang *(Oct 2025)*
-- 🏆 **Finalist — Techpioneers Innovation Challenge 2025 (PKM-GFT)** — Faculty of Engineering, Universitas Negeri Malang *(Nov 2025)*
-- 🥉 **3rd Place — National AXELBIT System Integrator Competition** — PT Axelerasi Bhinneka Teknologi @ UNESA *(Aug 2024)*
-- 🖥️ **Participant — National MikroTik Network Olympiad 2024** — PT Citraweb Solusi Teknologi *(Sep 2024)*
-
----
-
+Informatics Engineering student at **Universitas Negeri Malang** and **MTCNA Certified** Network Engineer. Building practical web systems with **Laravel** while exploring **C**, **Python**, and **AI**.
 ### Tech Stack
 
 | Category | Technologies |
