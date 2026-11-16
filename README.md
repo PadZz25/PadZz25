@@ -1,21 +1,13 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1A1B27,100:0284C7&height=200&section=header&text=Fadly%20Muhammad%20Zakariya&fontSize=36&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Informatics%20Engineering%20%7C%20Systems%2C%20Web%20%26%20Network%20Engineering&descAlignY=58&descSize=15" alt="Fadly Muhammad Zakariya Banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1A1B27,100:0284C7&height=200&section=header&text=Fadly%20Muhammad%20Zakariya&fontSize=36&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Informatics%20Engineering%20%7C%20Systems%20%E2%80%A2%20Web%20%E2%80%A2%20Networking&descAlignY=58&descSize=15" alt="Fadly Muhammad Zakariya Banner" />
 
-  <a href="https://github.com/PadZz25">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Informatics+Engineering+%40+Universitas+Negeri+Malang;MTCNA+Certified+Network+Engineer+%E2%80%A2+PT+Lintas+Data+Prima+Alum;Building+Laravel+Systems+%E2%80%A2+Exploring+C%2C+Python+%26+AI" alt="Typing SVG" />
-  </a>
+  <a href="https://github.com/PadZz25"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Informatics+Engineering+%40+Universitas+Negeri+Malang;MTCNA+Certified+Network+Engineer+%E2%80%A2+PT+Lintas+Data+Prima+Alum;Building+Laravel+Systems+%E2%80%A2+Exploring+C%2C+Python+%26+AI" alt="Typing SVG" /></a>
 
-  <br />
+  <br /><br />
 
-  <a href="https://www.linkedin.com/in/fadly-zakariya/">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:fadlymuhammadfi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.credly.com/badges/e4bee88f-c611-4f51-a256-5cb3d3cda794/linked_in_profile">
-    <img src="https://img.shields.io/badge/Credly-Google%20AppSheet-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge" />
-  </a>
+  <a href="https://www.linkedin.com/in/fadly-zakariya/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white" alt="LinkedIn" /></a>
+  <a href="mailto:fadlymuhammadfi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.credly.com/badges/e4bee88f-c611-4f51-a256-5cb3d3cda794/linked_in_profile"><img src="https://img.shields.io/badge/Credly-Google%20AppSheet-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge" /></a>
   <img src="https://img.shields.io/badge/MTCNA-2409NA8250-1A1B27?style=for-the-badge&logo=mikrotik&logoColor=38BDF8" alt="MTCNA Certified" />
 </div>
 
