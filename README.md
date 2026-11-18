@@ -1,7 +1,7 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1A1B27,100:0284C7&height=200&section=header&text=Fadly%20Muhammad%20Zakariya&fontSize=36&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Informatics%20Engineering%20%7C%20Systems%20%E2%80%A2%20Web%20%E2%80%A2%20Networking%20%E2%80%A2%20Machine%20Learning&descAlignY=58&descSize=15" alt="Fadly Muhammad Zakariya Banner" />
 
-  <a href="https://github.com/PadZz25"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Informatics+Engineering+%40+Universitas+Negeri+Malang;MTCNA+Certified+Network+Engineer+%E2%80%A2+PT+Lintas+Data+Prima;Building+Laravel+Systems+%E2%80%A2+Exploring+C+%26+AI;Machine+Learning+with+Python+%E2%80%A2+Data+Science" alt="Typing SVG" /></a>
+  <a href="https://github.com/PadZz25"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Informatics+Engineering+%40+Universitas+Negeri+Malang;MTCNA+Certified+Network+Engineer+%E2%80%A2;Building+Laravel+Systems+%E2%80%A2+Exploring+C+%26+AI;Machine+Learning+with+Python+%E2%80%A2+Data+Science" alt="Typing SVG" /></a>
 
 
   <a href="https://www.linkedin.com/in/fadly-zakariya/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white" alt="LinkedIn" /></a>
