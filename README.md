@@ -12,7 +12,7 @@
 
 ---
 
-### About Me
+### About Me.
 
 > *"Bridging low-level systems, reliable network infrastructure, and practical full-stack software."*
 
