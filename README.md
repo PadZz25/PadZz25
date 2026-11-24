@@ -31,7 +31,7 @@ Informatics Engineering student at **Universitas Negeri Malang** and **MTCNA Cer
 
 ---
 
-### GitHub Analytics.
+### GitHub Analytics
 
 <div align="center">
   <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PadZz25&theme=tokyonight" alt="GitHub Profile Summary" />
