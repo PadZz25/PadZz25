@@ -20,7 +20,7 @@ Informatics Engineering student at **Universitas Negeri Malang** and **MTCNA Cer
 
 ### Tech Stack
 
-| Category | Technologies |
+| Category | Technologies. |
 | :--- | :--- |
 | **Languages** | ![C](https://img.shields.io/badge/C-1A1B27?style=flat-square&logo=c&logoColor=A8B9CC) ![C++](https://img.shields.io/badge/C++-1A1B27?style=flat-square&logo=cplusplus&logoColor=00599C) ![Java](https://img.shields.io/badge/Java-1A1B27?style=flat-square&logo=openjdk&logoColor=ED8B00) ![PHP](https://img.shields.io/badge/PHP-1A1B27?style=flat-square&logo=php&logoColor=777BB4) ![JavaScript](https://img.shields.io/badge/JavaScript-1A1B27?style=flat-square&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-1A1B27?style=flat-square&logo=typescript&logoColor=3178C6) |
 | **Frameworks & Web** | ![HTML5](https://img.shields.io/badge/HTML5-1A1B27?style=flat-square&logo=html5&logoColor=E34F26) ![CSS](https://img.shields.io/badge/CSS-1A1B27?style=flat-square&logo=css&logoColor=663399) ![Laravel](https://img.shields.io/badge/Laravel-1A1B27?style=flat-square&logo=laravel&logoColor=FF2D20) ![Filament](https://img.shields.io/badge/Filament-1A1B27?style=flat-square&logo=laravel&logoColor=FDAE4B) ![Blade](https://img.shields.io/badge/Blade-1A1B27?style=flat-square&logo=laravel&logoColor=FF2D20) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1A1B27?style=flat-square&logo=tailwindcss&logoColor=06B6D4) ![Vite](https://img.shields.io/badge/Vite-1A1B27?style=flat-square&logo=vite&logoColor=646CFF) ![Composer](https://img.shields.io/badge/Composer-1A1B27?style=flat-square&logo=composer&logoColor=885630) |
